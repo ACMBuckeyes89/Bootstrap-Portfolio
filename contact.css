@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://lawanderlust.files.wordpress.com/2014/11/dsc04478.jpg");
+	background-size: cover;
+}
+
+.name {
+	font-family: 'Sedgwick Ave Display', cursive;
+	text-align: center;
+	color: #8B0000;
+	font-size: 55px;
+}
+
+.nav-link {
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+	margin-top: 15px;
+}
+
+.display-4,.form-control-label, .message {
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+}

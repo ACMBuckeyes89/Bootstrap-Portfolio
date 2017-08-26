@@ -1,0 +1,38 @@
+body {
+	background-image: url("https://lawanderlust.files.wordpress.com/2014/11/dsc04478.jpg");
+	background-size: cover;
+}
+.name {
+	font-family: 'Sedgwick Ave Display', cursive;
+	text-align: center;
+	color: #8B0000;
+	font-size: 55px;
+}
+
+.display-3 {
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
+.nav-link {
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+	margin-top: 15px;
+}
+
+.jumbotron {
+	width: 560px;
+	height: 500px;
+	position: relative;
+	top: 40px;
+	background-color: #2243B6;
+	opacity: 0.9;
+	color: white;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+	position: relative;
+	top: 40px;
+	opacity: 0.9;
+} 
